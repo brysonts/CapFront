@@ -1,0 +1,31 @@
+.actitle {
+  background-color: lightblue;
+  justify-content: center;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+
+.queryLabel {
+  padding-right: 10px;
+  margin-right: 10px;
+}
+.queryInput {
+  margin: 10px;
+}
+
+.resultContainer {
+  background-color: aqua;
+}
+.classSelect {
+  margin: 20px;
+
+  color: black;
+  /* background-color: aqua; */
+}
+/* .classOption {
+  margin: 20px;
+  padding: 20px;
+  color: aqua;
+  background-color: aqua;
+} */
