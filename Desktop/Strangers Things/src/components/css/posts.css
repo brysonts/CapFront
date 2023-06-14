@@ -1,0 +1,29 @@
+.showHideNewPost {
+  margin: 10px;
+  min-width: 400px;
+  max-width: 800px;
+}
+.postsContainer {
+  background-color: lightcoral;
+  margin: 10px;
+  padding: 10px;
+  color: black;
+}
+.navbarProfileLink {
+  color: white;
+  text-decoration: none;
+}
+.navbarProfileLink:hover {
+  border-bottom: 2px solid white;
+}
+
+.sortp {
+  text-decoration: none;
+  color: black;
+  margin: 20px;
+}
+.sortp:hover {
+  border-bottom: 2px solid black;
+  color: blue;
+  font-weight: bold;
+}
