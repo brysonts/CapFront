@@ -1,0 +1,32 @@
+.navLink {
+  color: aliceblue;
+}
+.navLinkAll {
+  display: flex;
+  justify-content: space-around;
+  background-color: grey;
+  padding: 10px;
+}
+
+input {
+  height: 2rem;
+}
+
+button {
+  height: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form > * {
+  margin: 0.5rem;
+}
+
+.welcomeID {
+  color: white;
+
+  padding-left: 10px;
+}
