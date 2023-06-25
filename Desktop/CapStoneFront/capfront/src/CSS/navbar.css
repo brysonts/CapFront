@@ -1,0 +1,41 @@
+.navLinkAll {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.navLink {
+  text-decoration: none;
+  margin: 10px;
+  /* border-bottom: solid black 1px; */
+  color: black;
+  padding: 10px;
+}
+.navLink:hover {
+  color: rgb(128, 49, 49);
+  border-bottom: solid black 1px;
+  padding-bottom: 9px;
+}
+.topNav {
+  display: flex;
+  justify-content: right;
+  margin-bottom: 10px;
+}
+.topNavLink {
+  border-right: solid black;
+  text-decoration: none;
+  margin: 10px;
+  padding-right: 10px;
+  color: black;
+}
+.topNavLink:hover {
+}
+.topNavLink:hover {
+  color: rgb(128, 49, 49);
+  border-bottom: solid black 1px;
+}
+
+.bottomNav {
+  display: flex;
+  justify-content: center;
+}

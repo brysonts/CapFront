@@ -1,0 +1,17 @@
+.centerContent {
+  display: flex;
+  justify-content: space-around;
+}
+
+.scrollableContent {
+  width: 200px;
+  background-color: rgb(112, 112, 194);
+  display: flex;
+  justify-content: center;
+}
+
+.centerPhoto {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
